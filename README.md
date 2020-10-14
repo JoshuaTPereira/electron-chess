@@ -1,2 +1,2 @@
-# enzyme-chess
-A multiplayer chess game built with enzyme
+# Electron Chess
+A multiplayer chess game built with electron
